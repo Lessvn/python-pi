@@ -2,9 +2,11 @@
 
 
 def main(msg):
-    #Adding a different comment
-    #Print a message
+   #No longer need a comment indeed
     print(msg)
+
+def secondary():
+    print("New Function")
 
 
 main("Hello Word!")
